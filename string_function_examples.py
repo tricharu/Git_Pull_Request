@@ -10,8 +10,10 @@ print(len(s))  #the length is 11
 print(s.title())  # How are you
 
 
-# upper() return the string in upper case
+'''
+upper() return the string in upper case
+'''
 print(s.upper()) #HOW ARE YOU
 
 #isupper return true or false, whether the string is in upper case or not
-print(s.isupper()) #False
+print(s.isupper()) #may be true or false depends on the string and return value of isupper()
